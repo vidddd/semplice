@@ -1,0 +1,35 @@
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<g>
+		<path class="st0" d="M22.1,23H1.9C0.9,23,0,22.1,0,21.1V8h24v13.1C24,22.1,23.1,23,22.1,23z M1,9v12.1C1,21.6,1.4,22,1.9,22h20.1
+			c0.5,0,0.9-0.4,0.9-0.9V9H1z"/>
+	</g>
+	<g>
+		<path class="st0" d="M8.5,20c-0.1,0-0.2,0-0.3-0.1C8.1,19.8,8,19.7,8,19.5v-8c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.1,0.5,0l8,4
+			c0.2,0.1,0.3,0.3,0.3,0.4s-0.1,0.4-0.3,0.4l-8,4C8.7,20,8.6,20,8.5,20z M9,12.3v6.4l6.4-3.2L9,12.3z"/>
+	</g>
+	<g>
+		<path class="st0" d="M24,7H0V2.5C0,1.7,0.7,1,1.5,1h21C23.3,1,24,1.7,24,2.5V7z M1,6h22V2.5C23,2.2,22.8,2,22.5,2h-21
+			C1.2,2,1,2.2,1,2.5V6z"/>
+	</g>
+	<g>
+		<rect x="2" y="1.2" transform="matrix(0.7071 0.7071 -0.7071 0.7071 3.5614 -0.5959)" class="st0" width="1" height="5.7"/>
+	</g>
+	<g>
+		<rect x="5.5" y="0.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 4.5869 -3.0688)" class="st0" width="1" height="7.1"/>
+	</g>
+	<g>
+		<rect x="9.5" y="0.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 5.7584 -5.8972)" class="st0" width="1" height="7.1"/>
+	</g>
+	<g>
+		<rect x="13.5" y="0.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 6.93 -8.7257)" class="st0" width="1" height="7.1"/>
+	</g>
+	<g>
+		<rect x="17.5" y="0.5" transform="matrix(0.7071 0.7071 -0.7071 0.7071 8.0992 -11.5601)" class="st0" width="1" height="7.1"/>
+	</g>
+	<g>
+		<rect x="21" y="1.7" transform="matrix(0.7071 0.7071 -0.7071 0.7071 9.4795 -13.8846)" class="st0" width="1" height="5.7"/>
+	</g>
+</g>
+</svg>

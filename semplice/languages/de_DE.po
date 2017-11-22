@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Semplice Theme\n"
+"POT-Creation-Date: 2014-09-28 19:50+0100\n"
+"PO-Revision-Date: 2015-11-02 19:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "404 - Nothing found"
+msgstr "404 - Nichts gefunden"
+
+#: ../404.php:13
+msgid "Sorry, the page you requested could not be found."
+msgstr "Die angeforderte Seite konnte nicht gefunden werden."
+
+#: ../404.php:13
+msgid "Back to the "
+msgstr "Zurück zu den "
+
+#: ../404.php:13
+msgid "Homepage"
+msgstr "Startseite"
+
+#: ../archive.php:15
+msgid "Archives for "
+msgstr "Archive für"
+
+#: ../archive.php:15
+msgid "F Y"
+msgstr "F Y"
+
+#: ../archive.php:17
+msgid "All Posts in "
+msgstr "Alle Beiträge in "
+
+#: ../comments.php:17
+msgid "Comments"
+msgstr "Kommentare"
+
+#: ../comments.php:27
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: ../comments.php:30 ../comments.php:39
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../comments.php:35
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar wartet auf Freischaltung."
+
+#: ../comments.php:46 ../comments.php:63
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist ausgeschaltet."
+
+#: ../comments.php:56
+msgid "Go to page: "
+msgstr "Gehe zur Seite: "
+
+#: ../comments.php:74
+msgid "Leave a Reply"
+msgstr "Eine Antwort verfassen"
+
+#: ../comments.php:75
+msgid "Cancel Reply"
+msgstr "Antwort abbrechen"
+
+#: ../comments.php:76
+msgid "Post Comment"
+msgstr "Kommentar veröffentlichen"
+
+#: ../comments.php:78
+msgid "Your comment*"
+msgstr "Ihr Kommentar*"
+
+#: ../comments.php:82
+msgid "Author*"
+msgstr "Autor*"
+
+#: ../comments.php:83
+msgid "E-Mail Address*"
+msgstr "E-Mail-Adresse*"
+
+#: ../comments.php:84
+msgid "Website"
+msgstr "Webseite"
+
+#: ../content-editor/meta_boxes.php:19
+msgid "Semplice Content Editor Meta Boxes"
+msgstr "Semplice Inhalts-Editor-Meta-Boxen"
+
+#: ../content-editor/meta_boxes.php:32
+msgid "Rom"
+msgstr "Rom"
+
+#: ../content-editor/meta_boxes.php:41
+msgid "Content"
+msgstr "Inhalt"
+
+#: ../content-editor/meta_boxes.php:50
+msgid "Branding"
+msgstr "Marke"
+
+#: ../content-editor/meta_boxes.php:59
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: ../content-editor/meta_boxes.php:68
+msgid "Fontset"
+msgstr "Fontset"
+
+#: ../includes/meta-box/inc/field.php:190
+msgid "+"
+msgstr "+"
+
+#: ../includes/meta-box/inc/field.php:207
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: ../includes/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Bitte die unten hervorgehobenen Fehler korrigieren und erneut versuchen."
+
+#: ../includes/post-types/custom_fontset.php:11
+#: ../includes/post-types/custom_fontset.php:22
+msgid "Custom Fontsets"
+msgstr "Individuelle Fontsets"
+
+#: ../includes/post-types/custom_fontset.php:12
+msgid "Custom Fontset"
+msgstr "Individueller Fontset"
+
+#: ../includes/post-types/custom_fontset.php:13
+#: ../includes/post-types/custom_fontset.php:16
+#: ../includes/post-types/custom_navbar.php:13
+#: ../includes/post-types/custom_navbar.php:16
+msgid "Add New"
+msgstr "Hinzufügen"
+
+#: ../includes/post-types/custom_fontset.php:14
+msgid "Add New Custom Fontset"
+msgstr "Neuen Individuellen Fontset hinzufügen"
+
+#: ../includes/post-types/custom_fontset.php:15
+msgid "Edit Custom Fontset"
+msgstr "Individuellen Fontset bearbeiten"
+
+#: ../includes/post-types/custom_fontset.php:17
+msgid "View Custom Fontset"
+msgstr "Individuellen Fontset anzeigen"
+
+#: ../includes/post-types/custom_fontset.php:18
+msgid "Search Fontsets"
+msgstr "Suche Fontsets"
+
+#: ../includes/post-types/custom_fontset.php:19
+msgid "No custom fontset found"
+msgstr "Individuellen Fontset nicht gefunden"
+
+#: ../includes/post-types/custom_fontset.php:20
+msgid "No custom fontset found in trash"
+msgstr "Keine Individuellen Fontsets im Papierkorb"
+
+#: ../includes/post-types/custom_fontset.php:21
+msgid "Parent custom fontset:"
+msgstr "Übergeordneter Individueller Fontset:"
+
+#: ../includes/post-types/custom_fontset.php:28
+msgid "Add your custom fontsets for the semplice theme here.."
+msgstr "Ihre individuellen Fontsets für das Semplice Theme hinzufügen…"
+
+#: ../includes/post-types/custom_navbar.php:11
+#: ../includes/post-types/custom_navbar.php:12
+#: ../includes/post-types/custom_navbar.php:22
+msgid "Navbar & Menu"
+msgstr "Navbar & Menü"
+
+#: ../includes/post-types/custom_navbar.php:14
+msgid "Add New Navbar & Menu"
+msgstr "Neue Navbar & Menü hinzufügen"
+
+#: ../includes/post-types/custom_navbar.php:15
+msgid "Edit Navbar & Menu"
+msgstr "Navbar & Menü bearbeiten"
+
+#: ../includes/post-types/custom_navbar.php:17
+msgid "View Navbar & Menu"
+msgstr "Navbar & Menü anzeigen"
+
+#: ../includes/post-types/custom_navbar.php:18
+msgid "Search Navbars"
+msgstr "Navbars suchen"
+
+#: ../includes/post-types/custom_navbar.php:19
+msgid "No navbar & menu found"
+msgstr "Kein Navbar & Menü gefunden"
+
+#: ../includes/post-types/custom_navbar.php:20
+msgid "No navbar & menu found in trash"
+msgstr "Es befindet sich keine Navbar & Menü im Papierkorb"
+
+#: ../includes/post-types/custom_navbar.php:21
+msgid "Parent navbar & menu:"
+msgstr "Übergeordnete Navbar & Menü:"
+
+#: ../includes/post-types/custom_navbar.php:28
+msgid "Add your custom navbar & menu for the semplice theme here.."
+msgstr "Individuelle Navbar & Menü für das Semplice Theme hinzufügen…"
+
+#: ../includes/post-types/portfolio.php:12
+msgid "Works"
+msgstr "Projekte"
+
+#: ../includes/post-types/portfolio.php:13
+msgid "Work"
+msgstr "Projekt"
+
+#: ../includes/post-types/portfolio.php:14
+#: ../includes/post-types/portfolio.php:15
+msgid "Add New Work"
+msgstr "Neues Projekt erstellen"
+
+#: ../includes/post-types/portfolio.php:16
+msgid "Edit Work"
+msgstr "Projekt bearbeiten"
+
+#: ../includes/post-types/portfolio.php:17
+msgid "New Work"
+msgstr "Neues Projekt"
+
+#: ../includes/post-types/portfolio.php:18
+msgid "View Work"
+msgstr "Projekt anschauen"
+
+#: ../includes/post-types/portfolio.php:19
+msgid "Search Portfolio"
+msgstr "Portfolio suchen"
+
+#: ../includes/post-types/portfolio.php:20
+msgid "No portfolio found"
+msgstr "Es wurde kein Portfolio gefunden"
+
+#: ../includes/post-types/portfolio.php:21
+msgid "No portfolio found in Trash"
+msgstr "Kein Portfolio im Papierkorb gefunden"
+
+#: ../includes/post-types/portfolio.php:22
+msgid "Parent work:"
+msgstr "Übergeordnetes Projekt:"
+
+#: ../includes/post-types/portfolio.php:23
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../includes/post-types/portfolio.php:29
+msgid "Description for the Post Type work."
+msgstr "Beschreibung für das Post-Type-Projekt."
+
+#: ../page.php:35 ../partials/format-audio.php:31
+#: ../partials/format-gallery.php:36 ../partials/format-image.php:4
+#: ../partials/format-standard.php:25 ../partials/format-video.php:31
+msgid "No Comments!"
+msgstr "Keine Kommentare!"
+
+#: ../page.php:35 ../partials/format-audio.php:31
+#: ../partials/format-gallery.php:36 ../partials/format-image.php:4
+#: ../partials/format-standard.php:25 ../partials/format-video.php:31
+msgid "1 comment."
+msgstr "1 Kommentar."
+
+#: ../page.php:35 ../partials/format-audio.php:31
+#: ../partials/format-gallery.php:36 ../partials/format-image.php:4
+#: ../partials/format-standard.php:25 ../partials/format-video.php:31
+#, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: ../partials/blog-archives.php:5
+msgid "Blog Archives"
+msgstr "Beitragsarchive"
+
+#: ../partials/blog-archives.php:13
+msgid "Latest Posts"
+msgstr "Neueste Beiträge"
+
+#: ../partials/blog-archives.php:28
+msgid "Monthly"
+msgstr "Monatlich"
+
+#: ../partials/blog-archives.php:36
+msgid "Categories"
+msgstr "Kategorien"
+
+#: ../partials/blog-loop.php:26
+msgid "No results were found. Please try a different search."
+msgstr "Keine Ergebnisse gefunden. Bitte noch einmal mit anderen Begriffen versuchen."
+
+#: ../partials/blog-metas.php:4
+msgid "Published by: "
+msgstr "Veröffentlicht von: "
+
+#: ../partials/blog-metas.php:4
+msgid " in</span> "
+msgstr " in</span> "
+
+#: ../partials/blog-search.php:9
+msgid "Results for "
+msgstr "Ergebnisse für "
+
+#: ../partials/format-image.php:7 ../partials/format-standard.php:29
+msgid "Read more"
+msgstr "weiterlesen.."
+
+#: ../searchform.php:5
+msgid "Search and hit enter"
+msgstr "Suchbegriff + Enter"
